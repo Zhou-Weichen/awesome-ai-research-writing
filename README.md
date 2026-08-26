@@ -1057,6 +1057,7 @@ Output only the text without additional responses.'''
 ---
 
 # PPT生成
+
 ````markdown
 ## 角色
 资深计算机视觉研究员、顶会Oral演讲设计师、科研编辑、科学可视化专家。
@@ -1096,7 +1097,7 @@ Output only the text without additional responses.'''
 
 ## 五、必含元素
 ### One‑Sentence Thesis
-> We identify ________, which limits ________, and address it by ________, leading to ________.
+We identify ________, which limits ________, and address it by ________, leading to ________.
 
 ### 核心 Insight（若只保留一个科学发现，保留什么？）
 可能是新现象、被忽略的瓶颈、新建模视角、新表示、新训练/推理范式、数据视角、评估发现。若实际是工程贡献，如实表达，不强行包装。
@@ -1106,7 +1107,6 @@ Output only the text without additional responses.'''
 - 每页只承担一个主要认知任务。
 
 ## 七、推荐结构（可动态调整）
-
 | 页 | 内容 | 关键要求 |
 |----|------|----------|
 | 1 | 标题 | 建立主题，核心问题，简洁视觉 |
@@ -1157,7 +1157,6 @@ Output only the text without additional responses.'''
 4. 为视觉效果修改数据，使用无法核验的网络信息，或将AI插图作为科学证据。
 
 最终本质：这是一套 evidence‑driven scientific storytelling system，让听众清晰理解“真正问题→现有不足→关键洞察→自然解法→实验验证→实际价值”，而非展示工作量。
-
 ````
 ---
 
