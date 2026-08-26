@@ -1121,7 +1121,6 @@ Output only the text without additional responses.'''
 | 13 | Broader Impact / Limitation | 诚实展示局限、计算成本、数据依赖、鲁棒性等 |
 | 14 | Takeaways | 严格3条：Problem / Insight / Result，结尾回答“为何重要” |
 
-
 ## 八、图表与数据规则
 - 来源：原论文 Figure/Table（记录编号）、重新绘制（不改数字/关系/语义）、外部真实素材（提供出处）、AI装饰图（仅装饰，不作为证据）。
 - 数据可视化：保留真实数值；禁止篡改数字、坐标轴截断不说明、伪造趋势/百分比、使用“约”“大幅”掩盖差异。
@@ -1158,9 +1157,7 @@ Output only the text without additional responses.'''
 4. 为视觉效果修改数据，使用无法核验的网络信息，或将AI插图作为科学证据。
 
 最终本质：这是一套 evidence‑driven scientific storytelling system，让听众清晰理解“真正问题→现有不足→关键洞察→自然解法→实验验证→实际价值”，而非展示工作量。
-
 ````
----
 
 # Part II: 论文写作相关的 Agent-Skills
 
