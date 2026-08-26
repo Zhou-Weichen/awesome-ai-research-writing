@@ -1054,6 +1054,7 @@ The camera moves left, then pushes forward to capture a person sitting on a brea
 A woman wearing a pearl necklace looks to the right and speaks.
 Output only the text without additional responses.'''
 ````
+---
 
 # PPT生成
 ````markdown
@@ -1144,7 +1145,6 @@ Output only the text without additional responses.'''
 ### B. Slide‑by‑Slide Specification（每页）
 - Purpose、Main Message、Narrative（过渡）、Content、Visual（图/表/公式/布局）、Source（Paper Fig X/Table X/外部/新绘）、Exact Data、Key Highlight（观众看哪里）、Avoid（不该放什么）、Transition（下一页进入方式）。
 
-
 ## 十二、附加输出
 - 30秒故事（极简版）
 - 2分钟故事（压缩版）
@@ -1157,7 +1157,9 @@ Output only the text without additional responses.'''
 4. 为视觉效果修改数据，使用无法核验的网络信息，或将AI插图作为科学证据。
 
 最终本质：这是一套 evidence‑driven scientific storytelling system，让听众清晰理解“真正问题→现有不足→关键洞察→自然解法→实验验证→实际价值”，而非展示工作量。
+
 ````
+---
 
 # Part II: 论文写作相关的 Agent-Skills
 
